@@ -1,11 +1,13 @@
 ### Hi there 👋, my name is Nando Garcia
 #### Full Stack developer
 
+<p align="center"> <img src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif"/> </p>
+
 ![sci-net](https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif)
 
 I am a Full Stack Developer, I am from Mexico and I have the knowledge to develop a complete and dynamic web application.
 
-Skills: VUE JS, JS, HTML, CS    /     PHP, MySQL, PYTHON, NODE
+Skills: REACT, JS, HTML, CSS    /     PHP, SQL, PYTHON, NODE
 
 - I’m currently working on this page:
 http://www.atlasnacionalderiesgos.gob.mx/
