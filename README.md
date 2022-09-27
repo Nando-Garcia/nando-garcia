@@ -2,9 +2,7 @@
 #### Full Stack developer
 
 <p align="center"> <img src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif"/> </p>
-
-![sci-net]
-
+<!--  ![sci-net]  -->
 I am a Full Stack Developer, I am from Mexico and I have the knowledge to develop a complete and dynamic web application.
 
 Skills: REACT, JS, HTML, CSS    /     PHP, SQL, PYTHON, NODE
