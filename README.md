@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nando Garcia
+### Hi my name is Nando Garcia
 #### Full Stack developer
 
 <p align="center"> <img src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif"/> </p>
