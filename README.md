@@ -5,11 +5,7 @@
 <!--  ![sci-net]  -->
 I am a Full Stack Developer, I am from Mexico and I have the knowledge to develop a complete and dynamic web application.
 
-Skills: REACT, JS, HTML, CSS    /     PHP, SQL, PYTHON, NODE
-
-- I’m currently working on this page:
-http://www.atlasnacionalderiesgos.gob.mx/
-
+Skills: JS/TS, HTML, CSS, Angular, NetCore     /     PHP/Express, NODE/Nest, Python     /     SQL/PLSQL, AWS Services, AzureDevOps, Docker
 
 <!--
 ![Full Stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
