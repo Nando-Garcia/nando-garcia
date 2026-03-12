@@ -1,24 +1,37 @@
-### Hi my name is Nando Garcia
-#### Full Stack developer
+# Hola, soy Nando Garcia 👋
 
-<p align="center"> <img src="https://media.giphy.com/media/ftAyb0CG1FNAIZt4SO/giphy.gif"/> </p>
-<!--  ![sci-net]  -->
-I am a Full Stack Developer, I am from Mexico and I have the knowledge to develop a complete and dynamic web application.
+**Full Stack Developer** desde México.
 
-Skills: JS/TS, HTML, CSS, Angular, NetCore     /     PHP/Express, NODE/Nest, Python     /     SQL/PLSQL, AWS Services, AzureDevOps, Docker
+Desarrollo aplicaciones web completas, desde el frontend hasta el backend, bases de datos y despliegue en la nube.
 
-<!--
-![Full Stack developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-**Nando-Garcia/nando-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** JavaScript, TypeScript, Angular, HTML, CSS  
+**Backend:** Node.js, NestJS, Express, PHP, Python, .NET Core  
+**Databases:** SQL, PL/SQL  
+**DevOps & Cloud:** AWS, Azure DevOps, Docker  
+
+---
+
+### Proyectos destacados
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [Notas](https://github.com/Nando-Garcia/Notas) | Recopilación de notas y aprendizajes de desarrollo |
+| [table](https://github.com/Nando-Garcia/table) | Generador de tablas escolares con 3 parciales |
+
+---
+
+### GitHub Stats
+
+![Nando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nando-Garcia&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+---
+
+### Contacto
+
+- 📍 México
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-fernando-garcia-a472a323b/)
+- 📧 lfge89@gmail.com
